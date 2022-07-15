@@ -6,7 +6,7 @@ export const magic = new Magic(process.env.REACT_APP_MAGIC_PUBLISHABLE_KEY, {
     extensions: [
       new ConfluxExtension({
         rpcUrl: "https://test.confluxrpc.com",
-        chainId: 1,
+        networkId: 1,
       }),
       new OAuthExtension()
     ]

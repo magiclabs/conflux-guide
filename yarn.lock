@@ -1492,10 +1492,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@magic-ext/conflux@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@magic-ext/conflux/-/conflux-0.1.0.tgz#43dd04ec40ea9344796a30260f5752f261051b45"
-  integrity sha512-vGbM+7MN6DVSXU2ROxYIixNkmSO90MbU2RTywO8jSLMHovmUXOhUjvydC/QVlcOwgfIlzjp3Ni4YAKMZfUimBA==
+"@magic-ext/conflux@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@magic-ext/conflux/-/conflux-1.1.2.tgz#54d1e1977eb1b4c6a39968b15e0c31460a4a43c8"
+  integrity sha512-nHUO7xTChg9yAvi6mdwdWwqByr7M2ZDDsLGCiA0GZeDETRVz+2ZPrm75g8X9A1hGIchwI4yiLVkUOCFWu+Bh0w==
 
 "@magic-ext/oauth@^1.0.0":
   version "1.0.0"

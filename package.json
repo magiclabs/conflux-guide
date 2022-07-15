@@ -9,7 +9,7 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "@magic-ext/conflux": "^0.1.0",
+    "@magic-ext/conflux": "^1.1.2",
     "@magic-ext/oauth": "^1.0.0",
     "js-conflux-sdk": "^2.0.0-beta.10",
     "magic-sdk": "^4.1.1",
